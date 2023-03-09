@@ -10,7 +10,7 @@
 <p align="left">Microsserviço para registro de presença de estudantes, (Consumer).</p>
 
 ## Tecnologias Utilizadas
-<img src="./icons/Java-Dark.svg" width="48">  
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="48">  
 <img src="./icons/Docker.svg" width="48"> 
 <img src="./icons/Kafka.svg" width="48">   
 <img src="./icons/MongoDB.svg" width="48"> 
