@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="48"> 
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="48">   
 <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="48"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" width="48"> 
+<img src="https://cdn.changelog.com/uploads/icons/topics/12R/icon_small.jpg" width="48"> 
 
 
 
