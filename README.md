@@ -14,4 +14,5 @@
 <img src="./icons/Docker.svg" width="48"> 
 <img src="./icons/Kafka.svg" width="48">   
 <img src="./icons/MongoDB.svg" width="48"> 
+<img src="./icons/Kafka.svg" width="48">
 
